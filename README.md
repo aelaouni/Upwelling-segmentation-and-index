@@ -15,8 +15,9 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), submitted on January 
 Instalation notes:
 
 required library:
+
 NetCDF-C https://www.unidata.ucar.edu/downloads/netcdf/index.jsp
-Opencv-C https://opencv.org/
+
 
 After you unzipped the files, you'll find 3 folders:
 
