@@ -1,7 +1,7 @@
 # Upwelling segmentation and index
 
-###Anass El Aouni (INRIA Bordeaux)
-###########################################################
+### Anass El Aouni (INRIA Bordeaux)
+
 
 License This software is made public for research use only. It may be modified and redistributed under the terms of the GNU General Public License.
 
@@ -11,11 +11,12 @@ Segmentation, quantification and dynamics of coastal Upwelling using SST satelli
 Anass El Aouni, Khalid Daoudi, Khalid Minaoui, Hussein Yahia
 IEEE Transactions on Geoscience and Remote Sensing (TGRS), submitted on January 2018
 
+
+Instalation notes:
+
 required library:
 NetCDF-C https://www.unidata.ucar.edu/downloads/netcdf/index.jsp
 Opencv-C https://opencv.org/
-
-Use notes:
 
 After you unzipped the files, you'll find 3 folders:
 
