@@ -1,7 +1,7 @@
 # Upwelling segmentation and index
 
-Anass El Aouni (INRIA Bordeaux)
-
+###Anass El Aouni (INRIA Bordeaux)
+###########################################################
 
 License This software is made public for research use only. It may be modified and redistributed under the terms of the GNU General Public License.
 
