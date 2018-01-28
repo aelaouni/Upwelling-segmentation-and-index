@@ -17,7 +17,7 @@ Instalation notes:
 required library:
 
 NetCDF-C https://www.unidata.ucar.edu/downloads/netcdf/index.jsp
-
+OpenCv-c https://opencv.org/
 
 After you unzipped the files, you'll find 3 folders:
 
