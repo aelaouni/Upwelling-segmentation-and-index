@@ -1,0 +1,1 @@
+./make && ./run norm.nc upwelling.png index.txt

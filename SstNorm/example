@@ -1,0 +1,1 @@
+./make && ./run sst.nc norm.nc

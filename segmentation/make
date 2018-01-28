@@ -1,0 +1,1 @@
+gcc -o run src/main.c src/netcdf_functions.c  src/display_functions.c src/clustering_functions.c src/RB_segmentation_functions.c src/edge_detector_functions.c `pkg-config --libs --cflags opencv` -lnetcdf 

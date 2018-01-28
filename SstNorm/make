@@ -1,0 +1,1 @@
+gcc -o run src/main.c src/netcdf_functions.c src/line.c   `pkg-config --libs --cflags opencv` -lnetcdf -lm
