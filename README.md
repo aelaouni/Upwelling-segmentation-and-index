@@ -31,7 +31,7 @@ After you unzipped the files, you'll find 3 folders:
 
 
 
-all the folder contain example of use. 
+all the folder contain an example of use. 
 
 
 The SST products used in this work are from MODIS-Terra and distributed by NASA OceanColor (https://oceancolor.gsfc.nasa.gov/)
