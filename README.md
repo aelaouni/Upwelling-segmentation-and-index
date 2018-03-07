@@ -23,6 +23,8 @@ OpenCv-c https://opencv.org/
 
 After you unzipped the files, you'll find 3 folders:
 
+each folder contains example file of how to use.  
+
 -SstNorm: use the codes inside to calculate the nonlinear normalization of the sea surface temperature.
 
 -Segmentation: use the codes inside to segment the upwelling region.

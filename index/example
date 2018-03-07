@@ -1,1 +1,16 @@
-./make && ./run norm.nc upwelling.png index.txt
+This code-source allows you to calculate the upwelling index and spatial extension:
+
++Under Linux/Unix/MAC OS open terminal and execute:
+
+$chmod +x make
+
+
+$./make && ./run norm.nc upwelling.png index.txt  extension.txt
+
++index.txt: contains Upwelling index over each latitude
++extention.txt: contains Upwelling extension over each latitude.
+
+
++included, a python scrip to plot the result:
+
+python plot_index_ext.py 

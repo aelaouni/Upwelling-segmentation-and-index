@@ -71,8 +71,8 @@ IplImage* lines(int x0, int y0, int x1, int y1, IplImage* in_img,Modis_data data
   //  if(sta>144)
     {
 //fprintf(files.fp1, "%.f ",ffc);
-fprintf(files.fp2, "%.3f ",max[0]);
-//fprintf(files.fp3, "%d ",extension);
+fprintf(files.fp2, "%f,%.3f\n",data.lats[data.latd-y0-1],max[0]);
+fprintf(files.fp3, "%f,%d\n",data.lats[data.latd-y0-1],extension*4);
     }
     /*end calc of coastal upwelling index*/
 

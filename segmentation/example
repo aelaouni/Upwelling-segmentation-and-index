@@ -1,1 +1,11 @@
-./make &&./run norm.nc upwelling.png
+This code-source allows you to extract the upwelling region:
+
++Under Linux/Unix/MAC OS open terminal and execute:
+
+$chmod +x make
+
+$./make &&./run norm.nc upwelling.png
+
+
++Input norm.nc: netcdf file containing a normalized SST
++Output upwelling.png: image contains the extracted upwelling region   

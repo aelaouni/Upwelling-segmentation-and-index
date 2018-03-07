@@ -8,8 +8,8 @@
 #include <netcdf.h>
 typedef struct modis_data {
   CvMat  *chlo;
-
-
+  double* lats;
+  int latd;
 } Modis_data;
 
 
