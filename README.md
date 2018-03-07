@@ -27,15 +27,31 @@ OpenCv-c https://opencv.org/
 After you unzipped the files, you'll find 3 folders:
 
 
--SstNorm: use the codes inside to calculate the nonlinear normalization of the sea surface temperature.
+-SstNorm: contains source to calculate the nonlinear normalization of the sea surface temperature.
 
--Segmentation: use the codes inside to segment the upwelling region.
+-Segmentation: contains source to segment the upwelling region.
 
--Index: use the code inside to calculate the coastal upwelling index and its extension.
+-Index: contains source to calculate the coastal upwelling index and its extension.
 
+How to compile:
 
+to compile all folders, under terminal execute:
 
-all the folders contain an example of use. 
+$ make all
+
+To execute an example, under terminal execute:
+
+$ chmod +x run_all.sh
+
+then
+
+$ ./run_all.sh data/sst.nc normalized.nc upwelling.png index.txt  ext.txt
+
++data/sst.nc: (input) netcdf file of the studied areas (in this example, the Atlantic coast of Morocco) 
++normalized.nc: (output) netcdf file; normalized sst 
++upwelling.png: (output) image of the upwelling area
++index.txt: (output) upwelling index
++ext.txt: (output) upwelling extension
 
 
 The SST products used in this work are from MODIS-Terra and distributed by NASA OceanColor (https://oceancolor.gsfc.nasa.gov/)
