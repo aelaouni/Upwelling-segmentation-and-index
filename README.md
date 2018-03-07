@@ -48,9 +48,13 @@ then
 $ ./run_all.sh data/sst.nc normalized.nc upwelling.png index.txt  ext.txt
 
 +data/sst.nc: (input) netcdf file of the studied areas (in this example, the Atlantic coast of Morocco) 
+
 +normalized.nc: (output) netcdf file; normalized sst 
+
 +upwelling.png: (output) image of the upwelling area
+
 +index.txt: (output) upwelling index
+
 +ext.txt: (output) upwelling extension
 
 
