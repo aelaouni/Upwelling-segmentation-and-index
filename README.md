@@ -26,7 +26,6 @@ OpenCv-c https://opencv.org/
 
 After you unzipped the files, you'll find 3 folders:
 
-each folder contains example file of how to use.  
 
 -SstNorm: use the codes inside to calculate the nonlinear normalization of the sea surface temperature.
 
@@ -36,7 +35,7 @@ each folder contains example file of how to use.
 
 
 
-all the folder contain an example of use. 
+all the folders contain an example of use. 
 
 
 The SST products used in this work are from MODIS-Terra and distributed by NASA OceanColor (https://oceancolor.gsfc.nasa.gov/)
