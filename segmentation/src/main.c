@@ -12,7 +12,7 @@ int main(int argc ,char **argv)
   Modis_data data,mask;
   Gebco_data gdata;
   data=read_netCDF_Modis(argv[1]);
-   mask=read_netCDF_Modis("norm.nc");
+   mask=read_netCDF_Modis(argv[1]);
   IplImage *rgb;
   CvMat *mat,*land,*rg,*out_img,*can;
 

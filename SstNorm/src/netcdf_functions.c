@@ -230,6 +230,6 @@ void create_nc(CvMat *in_mat,CvMat *dst_mat,char *file_name)
    if ((retval = nc_close(ncid)))
       ERR(retval);
    
-   printf("*** SUCCESS writing example file sfc_pres_temp.nc!\n");
+   printf("*** SUCCESS writing nc file\n");
 
 }
