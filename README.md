@@ -5,7 +5,7 @@
 
 License This software is made public for research use only. It may be modified and redistributed under the terms of the GNU General Public License.
 
-The present code allows you to identify and extract the North-West African upwelling spans (20◦51N-36◦21N and 4◦26W-19◦97W).
+The present code allows you to identify and extract the North-West African upwelling spans (20°51N-36°21N and 4°26W-19°97W).
 It also allows you to calculate the spatial and temporal variation of the upwelling index and its spatial extension.
 
 Please cite the following paper if you use the code in your own work:
