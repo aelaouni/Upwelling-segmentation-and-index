@@ -29,7 +29,7 @@ each folder contains example file of how to use.
 
 -Segmentation: use the codes inside to segment the upwelling region.
 
--Index: use the code inside to calculate the coastal upwelling index.
+-Index: use the code inside to calculate the coastal upwelling index and its extension.
 
 
 
