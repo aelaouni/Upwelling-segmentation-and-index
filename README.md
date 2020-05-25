@@ -11,6 +11,7 @@ It also allows you to calculate the spatial and temporal variation of the upwell
 Please cite the following paper if you use the code in your own work:
 
 Robust Detection of the North-West African Upwelling From SST Images
+
 A El Aouni, K Daoudi, K Minaoui, H Yahia IEEE Geoscience and Remote Sensing Letters 2020
 
 
