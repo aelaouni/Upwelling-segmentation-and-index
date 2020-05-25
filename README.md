@@ -10,9 +10,8 @@ It also allows you to calculate the spatial and temporal variation of the upwell
 
 Please cite the following paper if you use the code in your own work:
 
-Segmentation, quantification and dynamics of coastal Upwelling using SST satellite images
-Anass El Aouni, Khalid Daoudi, Khalid Minaoui, Hussein Yahia
-IEEE Transactions on Geoscience and Remote Sensing (TGRS), submitted on January 2018
+Robust Detection of the North-West African Upwelling From SST Images
+A El Aouni, K Daoudi, K Minaoui, H Yahia IEEE Geoscience and Remote Sensing Letters 2020
 
 
 Instalation notes:
